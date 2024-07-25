@@ -14,3 +14,4 @@ resource "aws_instance" "example" {
 variable "instance_type" {
   default = "t2.micro" # Specify your instance size here
 }
+ 
